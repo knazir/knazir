@@ -38,38 +38,38 @@ I'm a software engineer with a passion for game and full-stack development. I've
     <td align="center">
       <a href="https://www.leagueoflegends.com/">
         <img src="img/league.png" width="80" height="80"><br/>
-        <sub><b>League of Legends</b></sub>
       </a>
+      <sub><b>League of Legends</b></sub>
     </td>
     <td align="center">
       <a href="https://www.teamfighttactics.com/">
         <img src="img/tft.png" width="80" height="80"><br/>
-        <sub><b>Teamfight Tactics</b></sub>
       </a>
+      <sub><b>Teamfight Tactics</b></sub>
     </td>
     <td align="center">
       <a href="https://www.pocketgems.com/">
         <img src="img/adventure_chef.png" width="80" height="80"><br/>
-        <sub><b>Adventure Chef</b></sub>
       </a>
+      <sub><b>Adventure Chef</b></sub>
     </td>
     <td align="center">
       <a href="https://www.pocketgems.com/">
         <img src="img/merge_td.png" width="80" height="80"><br/>
-        <sub><b>Merge Tower Defense</b></sub>
       </a>
+      <sub><b>Merge Tower Defense</b></sub>
     </td>
     <td align="center">
       <a href="https://www.wardragons.com/">
         <img src="img/war_dragons.png" width="80" height="80"><br/>
-        <sub><b>War Dragons</b></sub>
       </a>
+      <sub><b>War Dragons</b></sub>
     </td>
     <td align="center">
       <a href="https://www.roblox.com/">
         <img src="img/roblox.png" width="80" height="80"><br/>
-        <sub><b>Roblox</b></sub>
       </a>
+      <sub><b>Roblox</b></sub>
     </td>
   </tr>
 </table>
@@ -82,14 +82,14 @@ I'm a software engineer with a passion for game and full-stack development. I've
     <td align="center">
       <a href="https://github.com/knazir/SeePlusPlus">
         <img src="img/spp.png" width="80" height="80"><br/>   
-        <sub><b>See++</b></sub>
       </a>
+      <sub><b>See++</b></sub>
     </td>
     <td align="center">
       <a href="https://github.com/knazir/Paperless">
         <img src="img/karel.png" width="80" height="80"><br/>
-        <sub><b>Paperless</b></sub>
       </a>
+      <sub><b>Paperless</b></sub>
     </td>
   </tr>
 </table>
