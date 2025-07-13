@@ -86,7 +86,7 @@ I'm a software engineer with a passion for game and full-stack development. I've
       <sub><b>See++</b></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/knazir/Paperless">
+      <a href="https://cs198.stanford.edu/paperless">
         <img src="img/karel.png" width="80" height="80"><br/>
       </a>
       <sub><b>Paperless</b></sub>
