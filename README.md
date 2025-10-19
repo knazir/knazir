@@ -10,7 +10,6 @@ I'm a software engineer with a passion for game and full-stack development. I've
 - 🌱 **Learning:** how to integrate AI into game development workflows.
 - 💬 **Ask me:** about game, game engine, and full-stack development.
 - ❌ **Don't ask me:** about why everything is, in fact, a minion.
-- 😄 **Pronouns:** He/Him
 
 
 ## Skills
